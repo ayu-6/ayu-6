@@ -1,4 +1,4 @@
-# (づ｡◕‿‿◕｡)づ Hey, I'm **Apex**!
+# (づ｡◕‿‿◕｡)づ //**Apex**!
 
 💻 Programming, to me, is freedom — a way to shape the world on my own terms.  
 🛠️ I build, break, and rebuild until it feels right. No rules, just code.  
