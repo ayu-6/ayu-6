@@ -3,9 +3,11 @@
 💻 Programming, to me, is freedom — a way to shape the world on my own terms.  
 🛠️ I build, break, and rebuild until it feels right. No rules, just code.  
 
-```
-apex apex apex apex apex apex apex apex apex apex apex
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,cs,rust,vscode,bash,css,dotnet,github,git,godot,html,ai,js,obsidian,ps,py,twitter,ts,unity,visualstudio,windows," />
+  </a>
+</p>
 
 ```iris
 type program {
@@ -15,3 +17,4 @@ type program {
         console.print(idk + " btw")
     }
 }
+```
