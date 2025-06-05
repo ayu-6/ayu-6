@@ -18,3 +18,5 @@ type program {
     }
 }
 ```
+<a href='https://github.com/ayu-6/' target="_blank"><img alt='Github' src='https://img.shields.io/badge/ayu--6-100000?style=for-the-badge&logo=Github&logoColor=FFFFFF&labelColor=black&color=black'/></a>
+<a href='https://discord.com/users/791766917772869643' target="_blank"><img alt='discord' src='https://img.shields.io/badge/gnl8-100000?style=for-the-badge&logo=discord&logoColor=4A7DFF&labelColor=black&color=black'/></a>
