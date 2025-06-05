@@ -9,7 +9,7 @@
   </a>
 </p>
 
-```iris
+```cs
 type program {
     object idk = "Arch"
     object main = () {
