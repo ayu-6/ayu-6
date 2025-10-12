@@ -1,7 +1,6 @@
 # (づ｡◕‿‿◕｡)づ //**Apex**!
 
 💻 Programmer and developer who loves innovative projects, the benefit doesn't really matter as long as it's fun.  
-🛠️ I build, break, and rebuild until it feels right, just code.  
 
 <p align="center">
   <a href="https://skillicons.dev">
