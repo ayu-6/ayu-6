@@ -1,6 +1,9 @@
 # **Avvex**!
 
-💻 Programmer and developer who loves innovative projects, the benefit doesn't really matter as long as it's fun.  
+the benefit doesn't really matter as long as it's fun.  
+Programmer and developer interested in complex systems.
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
